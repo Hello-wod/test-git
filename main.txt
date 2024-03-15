@@ -3,3 +3,7 @@ main
 2
 .
 dev1
+func AA（）{
+  return 123
+}
+funCtion asdasd
